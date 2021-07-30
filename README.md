@@ -1,5 +1,7 @@
 # weather-app
 
+Live Demo => https://weather-vue-js-app.netlify.app/
+
 ## Project setup
 ```
 npm install
